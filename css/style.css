@@ -8,9 +8,10 @@ body {
 div {
   border-style: ridge;
   border-width: 2px;
-   margin: 0 auto;
+  margin: 0 auto;
   padding: 10px;
   text-align: left;
+  background-color: #53c653;
 }
 
 h1 {
